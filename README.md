@@ -1,5 +1,6 @@
 # 💫 About Me:
-Information Technology Student from the University of Mindanao.
+Information Technology Student from the University of Mindanao. <br>
+I am from Davao City.<br>
 
 
 ## 🌐 Socials:
